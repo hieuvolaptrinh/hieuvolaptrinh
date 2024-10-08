@@ -29,7 +29,7 @@
 
 
 
-# 💻 Tech Stack:
+# <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
