@@ -66,4 +66,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=hieuvolaptrinh&icon=2&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=hieuvolaptrinh&label=Profile%20Views&color=0&icon=0&pretty=true" />
+</a>
