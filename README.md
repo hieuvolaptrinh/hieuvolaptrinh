@@ -10,7 +10,7 @@
 <!-- https://icons8.com -->
 <div align="center">
  
-  <a href="[https://www.facebook.com/HieuVo.trumut](https://www.facebook.com/HieuVo.hv)" target="blank">
+  <a href="https://www.facebook.com/HieuVo.hv" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
   <a href="https://www.youtube.com/@hieuvoiuem" target="blank">
