@@ -1,54 +1,128 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vo+Nguyen+Dai+Hieu!;" />
+<!-- Header với animation và gradient background -->
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 60px 20px; border-radius: 20px; margin-bottom: 30px;">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+👋;I'm+Vo+Nguyen+Dai+Hieu!;Fullstack+Developer;Welcome+to+my+Profile!" style="margin-bottom: 20px;"/>
+  
+  <div style="margin-top: 20px;">
+    <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status"/>
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge&logo=dev.to&logoColor=white" alt="Focus"/>
+    <img src="https://img.shields.io/badge/Location-Da%20Nang,%20Vietnam-red?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+  </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div style="flex: 1;">
-    
-# 💫 About Me:
+<!-- Main content với improved layout -->
+<div align="center" style="max-width: 1200px; margin: 0 auto;">
+  <table style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <td style="width: 60%; vertical-align: top; padding: 20px;">
+        
+<div align="left">
 
-🌐 **Fullstack Developer** | IT Student at The University of Danang - University Technology and Education
+# 💫 About Me
 
-🎯 **Passionate about crafting end-to-end solutions** - from elegant user interfaces to robust backend architectures
+<div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 30px; border-radius: 15px; border-left: 5px solid #667eea; margin: 20px 0;">
 
-🚀 **What I love building:**
+### 🚀 **Fullstack Developer & Tech Enthusiast**
 
-- 🏗️ Scalable full-stack applications with modern architectures
-- 🎨 Responsive and intuitive user interfaces
-- ⚡ High-performance backend systems and APIs
-- 🔒 Secure and maintainable code solutions
+_IT Student at The University of Danang - University of Technology and Education_
 
-🤝 **My expertise spans across:**
+---
 
-- **Frontend:** Creating engaging user experiences with React, Vue, and modern CSS
-- **Backend:** Building robust APIs and microservices with Java, Node.js, and Spring Boot
-- **Database:** Designing efficient data models with SQL and NoSQL databases
-- **DevOps:** Containerization with Docker and CI/CD pipelines
+### 🎯 **My Mission**
 
-🌱 **Always learning and exploring:**
+Passionate about crafting **end-to-end digital solutions** that bridge the gap between elegant user experiences and powerful backend architectures.
 
-- System design patterns and microservices architecture
-- Performance optimization and security best practices
-- Cloud technologies and modern deployment strategies
-- Emerging frameworks and development tools
+### � **What Drives Me**
 
-⚡ **Fun fact:** I believe great software is like an iceberg - the most impressive work happens beneath the surface, making everything above look effortless!
+```javascript
+const myPassion = {
+  frontend: "Creating intuitive & responsive UIs",
+  backend: "Building scalable & secure APIs",
+  database: "Designing efficient data architectures",
+  devops: "Automating deployment pipelines",
+  learning: "Always exploring new technologies",
+};
+```
 
-📩 **Open to collaboration** on exciting projects where I can contribute my skills and continue growing as a developer.
+### 🛠️ **Core Expertise**
 
+- **🎨 Frontend:** React, Vue.js, Angular, Next.js, TypeScript
+- **⚙️ Backend:** Java Spring Boot, Node.js, Express, NestJS
+- **🗄️ Database:** MySQL, MongoDB, PostgreSQL, Redis
+- **☁️ DevOps:** Docker, AWS, CI/CD, Microservices
+
+### 🌱 **Current Focus**
+
+- 🏗️ Microservices Architecture & System Design
+- 🔐 Security Best Practices & Authentication
+- 📊 Performance Optimization & Monitoring
+- 🤖 AI/ML Integration in Web Applications
+
+</div>
+
+### 💬 **Let's Connect!**
+
+_Always excited to collaborate on innovative projects and discuss the latest in tech!_
+
+        </div>
+
+      </td>
+      <td style="width: 40%; vertical-align: top; padding: 20px;">
+
+<div align="center">
+
+<!-- Profile Image với enhanced styling -->
+<div style="position: relative; display: inline-block; margin-bottom: 30px;">
+  <img alt="Coding Animation" width="350" height="350" style="border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.1); border: 3px solid #667eea; object-fit: cover;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+  <div style="position: absolute; bottom: -10px; right: -10px; background: #667eea; color: white; padding: 10px; border-radius: 50%; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
+    ⚡
+  </div>
+</div>
+
+<!-- Quick Stats -->
+<div style="background: white; padding: 25px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); margin-bottom: 20px;">
+  <h3 style="margin: 0 0 15px 0; color: #667eea;">⚡ Quick Stats</h3>
+  
+  <div style="display: flex; justify-content: space-between; align-items: center; margin: 10px 0;">
+    <span style="font-weight: bold;">🎓 Education:</span>
+    <span style="color: #666;">IT Student</span>
   </div>
   
-  <div style="flex: 0 0 400px;">
-    <img alt="Coding" width="400" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+  <div style="display: flex; justify-content: space-between; align-items: center; margin: 10px 0;">
+    <span style="font-weight: bold;">💼 Role:</span>
+    <span style="color: #666;">Fullstack Dev</span>
   </div>
+  
+  <div style="display: flex; justify-content: space-between; align-items: center; margin: 10px 0;">
+    <span style="font-weight: bold;">🌟 Specialty:</span>
+    <span style="color: #666;">End-to-End</span>
+  </div>
+  
+  <div style="display: flex; justify-content: space-between; align-items: center; margin: 10px 0;">
+    <span style="font-weight: bold;">🔥 Passion:</span>
+    <span style="color: #666;">Innovation</span>
+  </div>
+</div>
+
+<!-- Call to Action -->
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white; text-align: center;">
+  <h4 style="margin: 0 0 10px 0;">🤝 Ready to Collaborate?</h4>
+  <p style="margin: 0; font-size: 14px; opacity: 0.9;">Let's build something amazing together!</p>
+</div>
+
+        </div>
+
+      </td>
+    </tr>
+
+  </table>
 </div>
 
 ## 🌐 Connect With Me:
 
 <div align="center">
   
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/HieuVo.trumut)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@hieu_vo05?is_from_webapp=1&sender_device=pc)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/HieuVo.hv)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@hieu_vo05)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@hieuvoiuem)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vndhieuak@gmail.com)
 
