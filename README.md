@@ -2,8 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vo+Nguyen+Dai+Hieu!;" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="flex: 1;">
+    
 # 💫 About Me:
 
 🌐 **Fullstack Developer** | IT Student at The University of Danang - University Technology and Education
@@ -34,6 +35,13 @@
 ⚡ **Fun fact:** I believe great software is like an iceberg - the most impressive work happens beneath the surface, making everything above look effortless!
 
 📩 **Open to collaboration** on exciting projects where I can contribute my skills and continue growing as a developer.
+
+  </div>
+  
+  <div style="flex: 0 0 400px;">
+    <img alt="Coding" width="400" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+  </div>
+</div>
 
 ## 🌐 Connect With Me:
 
