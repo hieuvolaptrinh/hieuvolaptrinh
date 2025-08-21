@@ -10,12 +10,13 @@
 </div>
 
 <!-- Main content với improved layout -->
-<div align="center" style="max-width: 1200px; margin: 0 auto;">
-  <table style="width: 100%; border-collapse: collapse;">
-    <tr>
-      <td style="width: 60%; vertical-align: top; padding: 20px;">
-        
-<div align="left">
+<div align="center">
+  
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<!-- About Me Section -->
 
 # 💫 About Me
 
@@ -104,15 +105,10 @@ _Always excited to collaborate on innovative projects and discuss the latest in 
   <p style="margin: 0; font-size: 14px; opacity: 0.9;">Let's build something amazing together!</p>
 </div>
 
-        </div>
+</td>
+<td width="50%" valign="top">
 
-      </td>
-
-      <!-- Right Column: Tech Stack -->
-      <td style="width: 50%; vertical-align: top; padding: 20px;">
-
-
-<div align="left">
+<!-- Tech Stack Section -->
 
 # 🛠️ Tech Stack & Tools
 
@@ -179,12 +175,10 @@ _Always excited to collaborate on innovative projects and discuss the latest in 
 
 </div>
 
-        </div>
+</td>
+</tr>
+</table>
 
-      </td>
-    </tr>
-
-  </table>
 </div>
 
 <!-- CSS Animations -->
