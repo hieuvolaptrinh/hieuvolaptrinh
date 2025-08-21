@@ -8,7 +8,10 @@
     <img src="https://img.shields.io/badge/Location-Da%20Nang,%20Vietnam-red?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
   </div>
 </div>
-<div align="center"><img alt="Coding Animation" width="350" height="350" style="border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.1); border: 3px solid #667eea; object-fit: cover;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/></div>
+<div align="center">
+<img alt="Coding Animation" width="350" height="350" style="border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.1); border: 3px solid #667eea; object-fit: cover;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+</div>
 <!-- Main content với improved layout -->
 <div align="center">
   
@@ -32,18 +35,6 @@ _IT Student at The University of Danang - University of Technology and Education
 
 Passionate about crafting **end-to-end digital solutions** that bridge the gap between elegant user experiences and powerful backend architectures.
 
-### � **What Drives Me**
-
-```javascript
-const myPassion = {
-  frontend: "Creating intuitive & responsive UIs",
-  backend: "Building scalable & secure APIs",
-  database: "Designing efficient data architectures",
-  devops: "Automating deployment pipelines",
-  learning: "Always exploring new technologies",
-};
-```
-
 ### 🛠️ **Core Expertise**
 
 - **🎨 Frontend:** React, Vue.js, Angular, Next.js, TypeScript
@@ -60,17 +51,7 @@ const myPassion = {
 
 </div>
 
-### 💬 **Let's Connect!**
-
-_Always excited to collaborate on innovative projects and discuss the latest in tech!_
-
 <div align="center">
-
-<!-- Call to Action -->
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white; text-align: center;">
-  <h4 style="margin: 0 0 10px 0;">🤝 Ready to Collaborate?</h4>
-  <p style="margin: 0; font-size: 14px; opacity: 0.9;">Let's build something amazing together!</p>
-</div>
 
 </td>
 <td width="50%" valign="top">
@@ -147,6 +128,18 @@ _Always excited to collaborate on innovative projects and discuss the latest in 
 </table>
 
 </div>
+
+### � **What Drives Me**
+
+```javascript
+const myPassion = {
+  frontend: "Creating intuitive & responsive UIs",
+  backend: "Building scalable & secure APIs",
+  database: "Designing efficient data architectures",
+  devops: "Automating deployment pipelines",
+  learning: "Always exploring new technologies",
+};
+```
 
 ## 🌐 Connect With Me:
 
