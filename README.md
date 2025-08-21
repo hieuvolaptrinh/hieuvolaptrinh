@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Location-Da%20Nang,%20Vietnam-red?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
   </div>
 </div>
-
+<div align="center"><img alt="Coding Animation" width="350" height="350" style="border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.1); border: 3px solid #667eea; object-fit: cover;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/></div>
 <!-- Main content với improved layout -->
 <div align="center">
   
@@ -66,39 +66,6 @@ _Always excited to collaborate on innovative projects and discuss the latest in 
 
 <div align="center">
 
-<!-- Profile Image với enhanced styling -->
-<div style="position: relative; display: inline-block; margin-bottom: 30px;">
-  <img alt="Coding Animation" width="350" height="350" style="border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.1); border: 3px solid #667eea; object-fit: cover;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-  <div style="position: absolute; bottom: -10px; right: -10px; background: #667eea; color: white; padding: 10px; border-radius: 50%; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
-    ⚡
-  </div>
-</div>
-
-<!-- Quick Stats -->
-<div style="background: white; padding: 25px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); margin-bottom: 20px;">
-  <h3 style="margin: 0 0 15px 0; color: #667eea;">⚡ Quick Stats</h3>
-  
-  <div style="display: flex; justify-content: space-between; align-items: center; margin: 10px 0;">
-    <span style="font-weight: bold;">🎓 Education:</span>
-    <span style="color: #666;">IT Student</span>
-  </div>
-  
-  <div style="display: flex; justify-content: space-between; align-items: center; margin: 10px 0;">
-    <span style="font-weight: bold;">💼 Role:</span>
-    <span style="color: #666;">Fullstack Dev</span>
-  </div>
-  
-  <div style="display: flex; justify-content: space-between; align-items: center; margin: 10px 0;">
-    <span style="font-weight: bold;">🌟 Specialty:</span>
-    <span style="color: #666;">End-to-End</span>
-  </div>
-  
-  <div style="display: flex; justify-content: space-between; align-items: center; margin: 10px 0;">
-    <span style="font-weight: bold;">🔥 Passion:</span>
-    <span style="color: #666;">Innovation</span>
-  </div>
-</div>
-
 <!-- Call to Action -->
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white; text-align: center;">
   <h4 style="margin: 0 0 10px 0;">🤝 Ready to Collaborate?</h4>
@@ -112,7 +79,7 @@ _Always excited to collaborate on innovative projects and discuss the latest in 
 
 # 🛠️ Tech Stack & Tools
 
-<div style="animation: slideInRight 1s ease-out;">
+<div align="center">
 
 ### 💻 **Programming Languages**
 
@@ -181,39 +148,6 @@ _Always excited to collaborate on innovative projects and discuss the latest in 
 
 </div>
 
-<!-- CSS Animations -->
-<style>
-@keyframes slideInLeft {
-  from { transform: translateX(-100%); opacity: 0; }
-  to { transform: translateX(0); opacity: 1; }
-}
-
-@keyframes slideInRight {
-  from { transform: translateX(100%); opacity: 0; }
-  to { transform: translateX(0); opacity: 1; }
-}
-
-@keyframes slideInUp {
-  from { transform: translateY(50px); opacity: 0; }
-  to { transform: translateY(0); opacity: 1; }
-}
-
-@keyframes fadeInUp {
-  from { transform: translateY(30px); opacity: 0; }
-  to { transform: translateY(0); opacity: 1; }
-}
-
-@keyframes float {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-20px); }
-}
-
-@keyframes pulse {
-  0%, 100% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-}
-</style>
-
 ## 🌐 Connect With Me:
 
 <div align="center">
@@ -224,8 +158,6 @@ _Always excited to collaborate on innovative projects and discuss the latest in 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vndhieuak@gmail.com)
 
 </div>
-
----
 
 ---
 
@@ -251,21 +183,11 @@ _Always excited to collaborate on innovative projects and discuss the latest in 
 
 </div>
 
-## ✨ Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=hieuvolaptrinh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
 <div align="center">
   
 ### 💭 Developer Quote
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/hieuvolaptrinh/hieuvolaptrinh/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -273,8 +195,6 @@ _Always excited to collaborate on innovative projects and discuss the latest in 
 
 <div align="center">
   
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
-
 ⭐️ **From [hieuvolaptrinh](https://github.com/hieuvolaptrinh)** with ❤️
 
 <img src="https://komarev.com/ghpvc/?username=hieuvolaptrinh&style=for-the-badge&color=blueviolet" alt="Profile views" />
