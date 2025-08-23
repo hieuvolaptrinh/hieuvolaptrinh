@@ -9,6 +9,9 @@
   </div>
 </div>
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hieuvolaptrinh&theme=tokyo-night&hide_border=true" />
+</div>
+<div align="center">
 <img alt="Coding Animation" width="350" height="350" style="border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.1); border: 3px solid #667eea; object-fit: cover;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 </div>
@@ -164,9 +167,6 @@ const myPassion = {
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hieuvolaptrinh&theme=tokyo-night&hide_border=true" />
-</div>
 
 ## 🏆 GitHub Achievements
 
