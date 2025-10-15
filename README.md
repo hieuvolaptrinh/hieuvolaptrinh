@@ -1,8 +1,5 @@
 <!-- Portfolio Preview Frame -->
 <div align="center" style="margin: 40px 0;">
-  <h2 style="color: #667eea; font-size: 28px; margin-bottom: 20px;">
-    🎨 Portfolio Preview
-  </h2>
   <div style="position: relative; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; box-shadow: 0 10px 40px rgba(102, 126, 234, 0.3);">
     <a href="https://hieuvolaptrinh.com/" target="_blank">
       <img src="https://img.shields.io/badge/🚀_Visit_Full_Portfolio-Click_Here-white?style=for-the-badge" alt="Visit Portfolio" style="margin-bottom: 20px;"/>
@@ -31,9 +28,6 @@
         </td>
       </tr>
     </table>
-    <p style="color: white; margin-top: 20px; font-size: 14px;">
-      ✨ Explore my projects, skills, and professional journey ✨
-    </p>
     </div>
 </div>
 
