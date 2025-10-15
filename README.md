@@ -15,6 +15,25 @@
     <img src="https://img.shields.io/badge/Location-Da%20Nang,%20Vietnam-red?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
   </div>
 </div>
+
+<!-- Portfolio Preview Frame -->
+<div align="center" style="margin: 40px 0;">
+  <h2 style="color: #667eea; font-size: 28px; margin-bottom: 20px;">
+    🎨 Portfolio Preview
+  </h2>
+  <div style="position: relative; padding: 10px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; box-shadow: 0 10px 40px rgba(102, 126, 234, 0.3);">
+    <a href="https://hieuvolaptrinh.com/" target="_blank">
+      <img src="https://img.shields.io/badge/🚀_Visit_Full_Portfolio-Click_Here-white?style=for-the-badge" alt="Visit Portfolio" style="margin-bottom: 10px;"/>
+    </a>
+    <div style="background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 5px 20px rgba(0,0,0,0.2);">
+      <img src="https://via.placeholder.com/1200x600/667eea/ffffff?text=Portfolio+Preview+-+hieuvolaptrinh.com" alt="Portfolio Preview" style="width: 100%; height: auto; display: block;"/>
+    </div>
+    <p style="color: white; margin-top: 15px; font-size: 14px;">
+      ✨ Explore my projects, skills, and professional journey ✨
+    </p>
+  </div>
+</div>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hieuvolaptrinh&theme=tokyo-night&hide_border=true" />
 </div>
