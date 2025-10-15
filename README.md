@@ -25,9 +25,9 @@
     <a href="https://hieuvolaptrinh.com/" target="_blank">
       <img src="https://img.shields.io/badge/🚀_Visit_Full_Portfolio-Click_Here-white?style=for-the-badge" alt="Visit Portfolio" style="margin-bottom: 20px;"/>
     </a>
-    
-    <!-- Portfolio Screenshots Grid -->
-    <table style="width: 100%; border-collapse: collapse;">
+  </div>
+  <div>
+  <table style="width: 100%; border-collapse: collapse;">
       <tr>
         <td align="center" style="padding: 10px;">
           <a href="https://hieuvolaptrinh.com/" target="_blank">
@@ -49,19 +49,17 @@
         </td>
       </tr>
     </table>
-    
     <p style="color: white; margin-top: 20px; font-size: 14px;">
       ✨ Explore my projects, skills, and professional journey ✨
     </p>
-  </div>
+    </div>
 </div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hieuvolaptrinh&theme=tokyo-night&hide_border=true" />
 </div>
-<div align="center">
-<img alt="Coding Animation" width="350" height="350" style="border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.1); border: 3px solid #667eea; object-fit: cover;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
+<div align="center">
+  <img alt="Coding Animation" width="350" height="350" style="border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.1); border: 3px solid #667eea; object-fit: cover;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 </div>
 <!-- Main content với improved layout -->
 <div align="center">
