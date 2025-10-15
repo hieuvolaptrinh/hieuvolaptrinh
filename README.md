@@ -1,21 +1,3 @@
-<!-- Portfolio Link Section -->
-<div align="center" style="margin: 20px 0;">
-  <a href="https://hieuvolaptrinh.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Click_Here-View_My_Portfolio-blueviolet?style=for-the-badge&logoColor=white" alt="Portfolio" style="font-size: 18px; padding: 15px 30px;"/>
-  </a>
-</div>
-
-<!-- Header với animation và gradient background -->
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 60px 20px; border-radius: 20px; margin-bottom: 30px;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+👋;I'm+Vo+Nguyen+Dai+Hieu!;Fullstack+Developer;Welcome+to+my+Profile!" style="margin-bottom: 20px;"/>
-  
-  <div style="margin-top: 20px;">
-    <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status"/>
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge&logo=dev.to&logoColor=white" alt="Focus"/>
-    <img src="https://img.shields.io/badge/Location-Da%20Nang,%20Vietnam-red?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
-  </div>
-</div>
-
 <!-- Portfolio Preview Frame -->
 <div align="center" style="margin: 40px 0;">
   <h2 style="color: #667eea; font-size: 28px; margin-bottom: 20px;">
@@ -54,6 +36,18 @@
     </p>
     </div>
 </div>
+
+<!-- Header với animation và gradient background -->
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 60px 20px; border-radius: 20px; margin-bottom: 30px;">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+👋;I'm+Vo+Nguyen+Dai+Hieu!;Fullstack+Developer;Welcome+to+my+Profile!" style="margin-bottom: 20px;"/>
+  
+  <div style="margin-top: 20px;">
+    <img src="https://img.shields.io/badge/Status-Available%20for%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status"/>
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge&logo=dev.to&logoColor=white" alt="Focus"/>
+    <img src="https://img.shields.io/badge/Location-Da%20Nang,%20Vietnam-red?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+  </div>
+</div>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hieuvolaptrinh&theme=tokyo-night&hide_border=true" />
 </div>
