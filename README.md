@@ -21,14 +21,36 @@
   <h2 style="color: #667eea; font-size: 28px; margin-bottom: 20px;">
     🎨 Portfolio Preview
   </h2>
-  <div style="position: relative; padding: 10px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; box-shadow: 0 10px 40px rgba(102, 126, 234, 0.3);">
+  <div style="position: relative; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; box-shadow: 0 10px 40px rgba(102, 126, 234, 0.3);">
     <a href="https://hieuvolaptrinh.com/" target="_blank">
-      <img src="https://img.shields.io/badge/🚀_Visit_Full_Portfolio-Click_Here-white?style=for-the-badge" alt="Visit Portfolio" style="margin-bottom: 10px;"/>
+      <img src="https://img.shields.io/badge/🚀_Visit_Full_Portfolio-Click_Here-white?style=for-the-badge" alt="Visit Portfolio" style="margin-bottom: 20px;"/>
     </a>
-    <div style="background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 5px 20px rgba(0,0,0,0.2);">
-      <img src="https://via.placeholder.com/1200x600/667eea/ffffff?text=Portfolio+Preview+-+hieuvolaptrinh.com" alt="Portfolio Preview" style="width: 100%; height: auto; display: block;"/>
-    </div>
-    <p style="color: white; margin-top: 15px; font-size: 14px;">
+    
+    <!-- Portfolio Screenshots Grid -->
+    <table style="width: 100%; border-collapse: collapse;">
+      <tr>
+        <td align="center" style="padding: 10px;">
+          <a href="https://hieuvolaptrinh.com/" target="_blank">
+            <img src="./home.png" alt="Homepage" style="width: 100%; max-width: 350px; border-radius: 10px; box-shadow: 0 5px 20px rgba(0,0,0,0.3); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+          </a>
+          <p style="color: white; margin-top: 10px; font-size: 14px; font-weight: bold;">🏠 Trang Chủ</p>
+        </td>
+        <td align="center" style="padding: 10px;">
+          <a href="https://hieuvolaptrinh.com/about" target="_blank">
+            <img src="./about.png" alt="About Page" style="width: 100%; max-width: 350px; border-radius: 10px; box-shadow: 0 5px 20px rgba(0,0,0,0.3); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+          </a>
+          <p style="color: white; margin-top: 10px; font-size: 14px; font-weight: bold;">👨‍💻 Giới Thiệu</p>
+        </td>
+        <td align="center" style="padding: 10px;">
+          <a href="https://hieuvolaptrinh.com/service" target="_blank">
+            <img src="./service.png" alt="Services Page" style="width: 100%; max-width: 350px; border-radius: 10px; box-shadow: 0 5px 20px rgba(0,0,0,0.3); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+          </a>
+          <p style="color: white; margin-top: 10px; font-size: 14px; font-weight: bold;">💼 Dịch Vụ</p>
+        </td>
+      </tr>
+    </table>
+    
+    <p style="color: white; margin-top: 20px; font-size: 14px;">
       ✨ Explore my projects, skills, and professional journey ✨
     </p>
   </div>
