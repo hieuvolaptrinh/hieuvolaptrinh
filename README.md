@@ -1,3 +1,10 @@
+<!-- Portfolio Link Section -->
+<div align="center" style="margin: 20px 0;">
+  <a href="https://hieuvolaptrinh.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Click_Here-View_My_Portfolio-blueviolet?style=for-the-badge&logoColor=white" alt="Portfolio" style="font-size: 18px; padding: 15px 30px;"/>
+  </a>
+</div>
+
 <!-- Header với animation và gradient background -->
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 60px 20px; border-radius: 20px; margin-bottom: 30px;">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+👋;I'm+Vo+Nguyen+Dai+Hieu!;Fullstack+Developer;Welcome+to+my+Profile!" style="margin-bottom: 20px;"/>
@@ -166,7 +173,6 @@ const myPassion = {
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hieuvolaptrinh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
-
 
 ## 🏆 GitHub Achievements
 
